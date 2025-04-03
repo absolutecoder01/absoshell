@@ -1,2 +1,2 @@
 # absoshell
-Creating my own shell in c++
+Creating my own shell in Python
